@@ -1,0 +1,4 @@
+﻿  PROMDEVICE.cpp
+d:\proteus\myprom\myprom\promdevice.cpp(15): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+  MYPROM.vcxproj -> D:\proteus\MYPROM\Debug\MYPROM.dll
+  MYPROM.vcxproj -> D:\proteus\MYPROM\Debug\MYPROM.pdb (Full PDB)
